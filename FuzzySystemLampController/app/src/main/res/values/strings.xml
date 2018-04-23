@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Fuzzy System</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Intesitas_luar">Intesitas Cahaya Luar</string>
+    <string name="Nilai0">0.0</string>
+    <string name="Intesitas_dalam">Intensitas Cahaya Dalam</string>
+    <string name="prosesbtn">Proses</string>
+    <string name="outdor_Title">Fuzzy Input Intensitas Cahaya Outdor</string>
+    <string name="indor_Title">Fuzzy Input Intensitas Cahaya Indor</string>
+    <string name="Gelap">Gelap</string>
+    <string name="Remang">Remang-Remang</string>
+    <string name="Agak_Terang">Agak Terang</string>
+    <string name="Terang">Terang</string>
+    <string name="Sangat_terang">Sangat Terang</string>
+    <string name="Agak_Gelap">Agak Gelap</string>
+    <string name="Defuzzyfikasi" />
+    <string name="defuzzyfikasi">Defuzzyfikasi</string>
+    <string name="Padam">Padam</string>
+    <string name="Redup">Redup</string>
+    <string name="Normal">Normal</string>
+    <string name="lampOn">Lampu On</string>
+    <string name="lampOff">lampu Off</string>
+</resources>
